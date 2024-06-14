@@ -1,0 +1,6 @@
+projectKey=org.example:Calculator
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=org.example%3ACalculator
+ceTaskId=565811d4-927a-4caa-aceb-b6c8e2bcd29d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=565811d4-927a-4caa-aceb-b6c8e2bcd29d
