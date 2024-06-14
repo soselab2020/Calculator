@@ -35,5 +35,11 @@ public class CalculatorTest {
         assertEquals(6, calculator.multiply(2, 3));
         System.out.println("Test multiply method");
     }
+
+    @Test
+    public void testDivide() {
+        assertEquals(1.5, calculator.divide(3, 2));
+        System.out.println("Test multiply method");
+    }
 }
 
